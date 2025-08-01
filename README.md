@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/harvest.jpeg?raw=true" width="45%" />
-  <img src="https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Dashboard.jpg" width="45%" />
+  <img src="https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/harvest.jpeg?raw=true" width="45%" height="300px"/>
+  <img src="https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Dashboard.jpg" width="45%" height="300px"/>
 </p>
 
 
