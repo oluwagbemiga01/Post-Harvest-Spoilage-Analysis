@@ -10,8 +10,7 @@ This repository contains a Power BI project focused on analyzing post-harvest sp
 To understand the scale and patterns of post-harvest spoilage and revenue loss across different conditions — such as technology used, access to markets, and crop type — and to generate actionable insights for stakeholders.
 
 ## ✅ Key KPIs
-
-- **Total Spoilage Amount**: _XX tons_  
+ 
 - **Total Revenue Loss**: _₦41 million_  
 - **Highest Spoilage Crop**: _Maize (34k units)_  
 - **Lowest Spoilage Crop**: _Tomato_  
@@ -67,13 +66,10 @@ The interactive Power BI dashboard includes the following visualizations:
 
 ## 📷 Screenshots
 
-> _(Replace these with actual screenshots from your dashboard once added to the repo)_
 
-- ![KPI Card Section](screenshots/kpis.png)
-- ![Spoilage by Crop Type](screenshots/spoilage_crop.png)
-- ![Revenue Loss by Market Access](screenshots/revenue_loss_market.png)
-- ![Tech Usage Impact](screenshots/tech_impact.png)
-- ![Scatter Plot - Transport Distance vs Spoilage](screenshots/scatter.png)
+- ![Spoilage by Crop Type]([screenshots/spoilage_crop.png](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Spoilage%20by%20crop%20type.jpg?raw=true))
+- ![Tech Usage Impact]([screenshots/tech_impact.png](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Tech%20used.jpg?raw=true))
+- ![Spoilage by Youth Involvement]([screenshots/scatter.png](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Loss%20by%20Youth%20involved.jpg?raw=true))
 
 ## 🧑‍💼 Target Audience
 
@@ -90,10 +86,10 @@ The insights derived from this dashboard provide strong evidence to push for inv
 
 ---
 
-Feel free to fork, share, or contribute to the project.
+Feel free to share, or contribute to the project.
 
 ## 📬 Contact
 
 **Oluwagbemiga Agbeje**  
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  
-Email: your.email@example.com
+[LinkedIn][(https://www.linkedin.com/in/oluwagbemiga-agbeje/)]  
+Email: gbemiga100@gmail.com
