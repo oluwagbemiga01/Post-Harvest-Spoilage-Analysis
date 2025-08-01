@@ -1,5 +1,7 @@
-![](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/harvest.jpeg?raw=true) |  
-![](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Dashboard.jpg)
+<p float="left">
+  <img src="[link-to-first-image.png](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/harvest.jpeg?raw=true)" width="45%" />
+  <img src="[link-to-second-image.png](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Dashboard.jpg)" width="45%" />
+</p>
 
 
 # 🥦 Post-Harvest-Spoilage-Analysis in Agriculture
