@@ -92,6 +92,6 @@ Feel free to share, or contribute to the project.
 
 Author: **Oluwagbemiga Agbeje**  
 
-[My LinkedIn Page](https://www.linkedin.com/in/oluwagbemiga-agbeje/)
+Social_handle: [My LinkedIn Page](https://www.linkedin.com/in/oluwagbemiga-agbeje/)
 
 Email: gbemiga100@gmail.com
