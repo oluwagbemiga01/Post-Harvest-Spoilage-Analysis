@@ -91,5 +91,5 @@ Feel free to share, or contribute to the project.
 ## 📬 Contact
 
 **Oluwagbemiga Agbeje**  
-[LinkedIn][(https://www.linkedin.com/in/oluwagbemiga-agbeje/)]  
+[LinkedIn](https://www.linkedin.com/in/oluwagbemiga-agbeje/)
 Email: gbemiga100@gmail.com
