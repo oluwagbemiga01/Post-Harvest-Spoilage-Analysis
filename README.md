@@ -90,8 +90,8 @@ Feel free to share, or contribute to the project.
 
 ## 📬 Contact
 
-**Oluwagbemiga Agbeje**  
+Author: **Oluwagbemiga Agbeje**  
 
-[LinkedIn](https://www.linkedin.com/in/oluwagbemiga-agbeje/)
+[My LinkedIn Page](https://www.linkedin.com/in/oluwagbemiga-agbeje/)
 
 Email: gbemiga100@gmail.com
