@@ -70,9 +70,9 @@ The interactive Power BI dashboard includes the following visualizations:
 ## 📷 Screenshots
 
 <p float>
- <img src = "https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Spoilage%20by%20crop%20type.jpg?raw=true"/>
-<img src= "https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Tech%20used.jpg?raw=true"/>
-<img src="https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Loss%20by%20Youth%20involved.jpg?raw=true"/>
+ <img src = "https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Spoilage%20by%20crop%20type.jpg?raw=true" width="30%"/>
+<img src= "https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Tech%20used.jpg?raw=true" width="30%"/>
+<img src="https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Loss%20by%20Youth%20involved.jpg?raw=true" width="30%"/>
 </p>
 
 ## 🧑‍💼 Target Audience
