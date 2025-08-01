@@ -67,7 +67,7 @@ The interactive Power BI dashboard includes the following visualizations:
 ## 📷 Screenshots
 
 
-- ![Spoilage by Crop Type]([https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Spoilage%20by%20crop%20type.jpg?raw=true])
+- ![Spoilage by Crop Type](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Spoilage%20by%20crop%20type.jpg?raw=true)
 - ![Tech Usage Impact]([screenshots/tech_impact.png](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Tech%20used.jpg?raw=true))
 - ![Spoilage by Youth Involvement]([screenshots/scatter.png](https://github.com/oluwagbemiga01/Post-Harvest-Spoilage-Analysis/blob/main/Screenshots/Loss%20by%20Youth%20involved.jpg?raw=true))
 
